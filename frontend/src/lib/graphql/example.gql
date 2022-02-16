@@ -1,0 +1,6 @@
+query Example {
+    example {
+        title
+        text
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "examples",
+  "info": {
+    "name": "example"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}
